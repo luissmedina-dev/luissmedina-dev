@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá, eu sou o Luis 👋
 
-<!--
-**luissmedina-dev/luissmedina-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software na PUCPR.
 
-Here are some ideas to get you started:
+Gosto de aprender programação construindo projetos e aplicando o que estudo
+em problemas e ideias que encontro pelo caminho.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Atualmente
+
+- 🎓 Engenharia de Software — PUCPR
+- 💻 Desenvolvendo projetos web com PHP, MySQL e JavaScript
+- 📚 Estudando JavaScript e expandindo meus conhecimentos em desenvolvimento web
+- 🏠 Desenvolvendo um sistema próprio para gerenciamento de reservas
+
+## Projetos
+
+### 🏠 Sistema de gerenciamento de reservas
+Projeto pessoal desenvolvido para aplicar e expandir meus conhecimentos
+em desenvolvimento web.
+
+### 🍽️ Restaurante
+Projeto que começou como uma atividade acadêmica simples e continuou
+evoluindo por iniciativa própria.
+
+### 🎬 MovieStar
+Projeto desenvolvido durante meus estudos de PHP para aplicar conceitos
+de desenvolvimento web e banco de dados.
+
+## Tecnologias
+
+PHP · JavaScript · MySQL · HTML · CSS · Git
+
+## Contato
+
+LinkedIn · Portfólio
