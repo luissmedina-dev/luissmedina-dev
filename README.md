@@ -146,9 +146,9 @@ Building more complete web applications
 
 <p align="left">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luissmedina-dev&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=luissmedina-dev&show_icons=true&theme=tokyonight" />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luissmedina-dev&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=luissmedina-dev&layout=compact&theme=tokyonight" />
 
 </p>
 
