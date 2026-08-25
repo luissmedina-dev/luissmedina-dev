@@ -165,5 +165,5 @@ Building more complete web applications
 Feel free to explore my repositories and follow my progress as I continue learning and building new projects.
 
 * GitHub: [@luissmedina-dev](https://github.com/luissmedina-dev)
-* LinkedIn: 
-* Portfolio: **coming soon**
+* LinkedIn: https://www.linkedin.com/in/luís-medina-a088523b8/
+* Portfolio: https://luissmedina-dev.github.io/portifolio/
