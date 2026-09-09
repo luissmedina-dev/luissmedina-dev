@@ -10,7 +10,7 @@
 
 <img
   src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=%5BSYSTEM%5D+Initializing+developer+profile...;%5BCORE%5D+Software+Engineering+student;%5BFOCUS%5D+Backend+%2B+Product+Thinking;%5BBUILD%5D+Turning+real+problems+into+software;%5BSTATUS%5D+Always+learning.+Always+building."
-  alt="Typing Animation"
+  alt="Typing animation"
 />
 
 <br/>
@@ -37,11 +37,11 @@
 ╰──────────────────────────────────────────────────────╯
 ~~~~
 
-Sou estudante de **Engenharia de Software**, interessado em construir produtos que resolvam problemas reais.
+I'm a **Software Engineering student at PUCPR** focused on building software that solves real-world problems.
 
-Meu foco principal está em **desenvolvimento backend**, arquitetura de aplicações, bancos de dados e construção de sistemas completos — sem perder de vista a experiência de quem vai usar o produto.
+My main interests are **backend development, application architecture, databases, and full-stack systems**, while keeping the product and user experience in mind.
 
-Gosto especialmente de projetos em que tecnologia deixa de ser apenas código e passa a resolver uma necessidade concreta.
+I especially enjoy projects where technology goes beyond writing code and becomes a practical solution to an actual need.
 
 ---
 
@@ -91,7 +91,9 @@ Gosto especialmente de projetos em que tecnologia deixa de ser apenas código e 
 
 ### 🏖️ Beach Apartment Booking System
 
-Sistema de gerenciamento e reservas desenvolvido para uma operação real de aluguel de apartamento.
+Reservation management system built for a real-world vacation rental operation.
+
+Designed to manage reservations, availability, authentication, administrative workflows, and property information.
 
 **Highlights**
 
@@ -111,7 +113,9 @@ Sistema de gerenciamento e reservas desenvolvido para uma operação real de alu
 
 ### 📦 Inventory & Traceability System
 
-Sistema interno criado a partir de uma necessidade real de controle de estoque e rastreabilidade de componentes e matérias-primas.
+Internal system designed around a real company's need for inventory control and component traceability.
+
+The project focuses on tracking materials, components, internal codes, inventory movements, and product structures.
 
 **Highlights**
 
@@ -133,11 +137,13 @@ Sistema interno criado a partir de uma necessidade real de controle de estoque e
 
 ### 🍽️ Restaurant Website
 
-Website responsivo desenvolvido como projeto acadêmico com foco em interface, organização visual e experiência do usuário.
+Responsive restaurant website originally developed as an academic project and later expanded independently.
+
+Focused on interface design, responsive layouts, menu presentation, and frontend fundamentals.
 
 **Stack**
 
-`HTML` `CSS` `JavaScript`
+`HTML` `CSS`
 
 <a href="https://github.com/luissmedina-dev/restaurant-website">
   <img src="https://img.shields.io/badge/VIEW_REPOSITORY-0ea5e9?style=for-the-badge&logo=github&logoColor=white" />
@@ -147,9 +153,11 @@ Website responsivo desenvolvido como projeto acadêmico com foco em interface, o
 
 <td width="50%" valign="top">
 
-### 🎬 PHP Movie Platform
+### 🎬 MovieStar
 
-Aplicação desenvolvida durante meus estudos de PHP, envolvendo autenticação, banco de dados e manipulação de conteúdo.
+Web application developed during my PHP studies to practice backend development and database integration.
+
+Includes authentication, content management, database operations, and dynamic server-side pages.
 
 **Stack**
 
@@ -177,7 +185,7 @@ medina@dev-core:~$ systemctl status goals
 
 ● software-engineering.service
    Status: ACTIVE
-   Mission: Build stronger foundations in databases,
+   Mission: Strengthen foundations in databases,
             requirements and software design
 
 ● product-thinking.service
@@ -204,47 +212,8 @@ medina@dev-core:~$ systemctl status goals
 <div align="center">
 
 <img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=luissmedina-dev&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=A855F7&text_color=CBD5E1&ring_color=38BDF8&include_all_commits=true&count_private=true"
-/>
-
-<img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=luissmedina-dev&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1"
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img
   src="https://streak-stats.demolab.com?user=luissmedina-dev&theme=transparent&hide_border=true&background=020617&stroke=334155&ring=38BDF8&fire=A855F7&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B"
-/>
-
-</div>
-
----
-
-## `> activity --graph`
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=luissmedina-dev&bg_color=020617&color=94A3B8&line=38BDF8&point=A855F7&area=true&hide_border=true"
-/>
-
-</div>
-
----
-
-## `> achievements --scan`
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=luissmedina-dev&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"
+  alt="GitHub contribution streak"
 />
 
 </div>
@@ -257,7 +226,7 @@ medina@dev-core:~$ systemctl status goals
 
 <img
   src="https://raw.githubusercontent.com/luissmedina-dev/luissmedina-dev/output/github-contribution-grid-snake-dark.svg"
-  alt="Snake contribution animation"
+  alt="GitHub contribution snake animation"
 />
 
 </div>
@@ -299,9 +268,10 @@ while (alive) {
 
 <img
   src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3500&pause=1200&color=64748B&center=true&vCenter=true&width=600&lines=Thanks+for+accessing+the+system.;Connection+secured.;See+you+in+the+next+build."
+  alt="System message"
 />
 
-<br/>
+<br/><br/>
 
 <img
   src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:0f172a,100:0ea5e9"
