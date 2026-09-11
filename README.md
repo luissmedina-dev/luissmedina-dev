@@ -19,7 +19,11 @@
 <img src="https://img.shields.io/badge/LOCATION-Curitiba%20%2F%20Brazil-38bdf8?style=for-the-badge&labelColor=020617" />
 <img src="https://img.shields.io/badge/FOCUS-Backend%20%26%20Product-a855f7?style=for-the-badge&labelColor=020617" />
 
-</div>
+<br/><br/>
+
+<a href="https://luissmedina-dev.github.io/portifolio/">
+  <img src="https://img.shields.io/badge/OPEN_PORTFOLIO-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
 ---
 
@@ -236,6 +240,10 @@ medina@dev-core:~$ systemctl status goals
 # `// NETWORK`
 
 <div align="center">
+
+<a href="https://luissmedina-dev.github.io/portifolio/">
+  <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" />
+</a>
 
 <a href="https://www.linkedin.com/in/luis-medina-a088523b8">
   <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
