@@ -63,7 +63,7 @@ I especially enjoy projects where technology goes beyond writing code and become
 
 ### Currently Exploring
 
-<img src="https://skillicons.dev/icons?i=swift,nodejs,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,linux&theme=dark" />
 
 </div>
 
