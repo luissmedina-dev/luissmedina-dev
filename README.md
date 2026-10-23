@@ -201,10 +201,6 @@ medina@dev-core:~$ systemctl status goals
    Status: ACTIVE
    Mission: Transform real-world needs into useful systems
 
-● apple-developer-academy.service
-   Status: PREPARING
-   Mission: Strengthen programming, design and product skills
-
 ● continuous-learning.service
    Status: ALWAYS RUNNING
 ~~~~
